@@ -10,6 +10,8 @@ An App to show quotes using A tinder like swipeable card stack component. Provid
 ![screenshot](https://github.com/vimaltiwari2612/JustQuotes/blob/master/1.PNG)
 ![screenshot](https://github.com/vimaltiwari2612/JustQuotes/blob/master/2.PNG)
 
+# demo
+[Demo](https://github.com/vimaltiwari2612/JustQuotes/blob/master/bandicam%202020-05-05%2018-42-29-520.mp4?raw=true)
 
 # sources
 A big thanks to 
